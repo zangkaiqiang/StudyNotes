@@ -12,4 +12,5 @@ The operator set does the minimum job for transforming or selecting individuals.
 操作员集完成转换或选择个人的最小工作。这意味着，例如，为交叉提供两个人将在适当的位置转换这些个体。让后代独立于其父母并使其适应性失效的责任留给用户，并且通常通过在个体上调用toolbox.clone（）来复制它并且在值属性上del来实现算法。个人的适合性使其失效。
 
 Here is a list of the implemented operators in DEAP,
-Initialization	Crossover	Mutation	Selection	Migration
+
+![image](https://www.flickr.com/gp/181683415@N06/vg7px0)
