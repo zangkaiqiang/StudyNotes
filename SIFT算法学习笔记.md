@@ -1,6 +1,8 @@
 # SIFT算法学习笔记
 
 ## 前言
+尺度不变特征转换(Scale-invariant feature transform 或 SIFT)是一种机器视觉的算法用来侦测与描述影像中的局部性特征，它在空间尺度中寻找极值点，并提取出其位置、尺度、旋转不变数，此算法由 David Lowe 在1999年所发表，2004年完善总结。 后续的论文中也有许多基于 SIFT 改进的论文，例如 SURF 将 SIFT 的许多过程近似，达到加速的效果；PCA-SIFT利用主成分分析降低描述子的维度，减少内存的使用并加快配对速度。
+
 SIFT算法是一种基于局部兴趣点的算法，不仅对图片的大小和旋转不敏感，而且对光照、噪声等影响的抗击能力也非常优秀。
 
 ## SIFT
@@ -15,3 +17,4 @@ SIFT算法主要包含4步
 
 ## refrence
 * https://zhuanlan.zhihu.com/p/70385018
+* https://zh.wikipedia.org/zh-cn/尺度不变特征转换
